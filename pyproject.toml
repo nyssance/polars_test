@@ -1,0 +1,10 @@
+[project]
+name = "polars_test"
+version = "1.0.0"
+description = ""
+authors = [{ name = "NY ", email = "nyssance@icloud.com" }]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "polars"
+]
