@@ -1,8 +1,14 @@
 # polars_test
 
-## Install
+[![Python](https://img.shields.io/badge/python-3.13-3776ab)](https://www.python.org)
 
-[Install uv](https://docs.astral.sh/uv/getting-started/installation/)
+---
+
+## Getting started
+
+- [Installing uv](https://docs.astral.sh/uv/getting-started/installation/)
+
+## Install
 
 ```shell
 uv sync
